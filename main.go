@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/MrOganes/GO"
+    "github.com/MrOganes/GO/mymodule"
 )
 
 func main() {
